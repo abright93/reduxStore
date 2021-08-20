@@ -11,7 +11,7 @@ This application uses Redux to manage global state instead of the Context API so
 * [Tests](#tests)
 * [Questions](#questions)
 # Installation
-Command(s) needed to run to install dependencies: User must do an npm i
+Command(s) needed to run to install dependencies: User must do an npm i & npm run build
 # Usage
 ​How this application is used: e-commerce platform that uses Redux to manage global state
 # License
