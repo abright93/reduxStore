@@ -7,7 +7,8 @@
     "start": "node server/server.js",
     "watch": "nodemon",
     "seed": "node server/config/seeds.js",
-    "build": "cd client && npm run build"
+    "build": "cd client && npm run build",
+    "install": "cd server && npm i && cd ../client && npm i"
   },
   "keywords": [],
   "author": "",
